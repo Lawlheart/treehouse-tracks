@@ -1,0 +1,1159 @@
+{
+  "iOS Development with Swift 2.0": [{
+    "count": 3,
+    "title": "Swift 2.0 Basics",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Swift 2.0 Collections and Control Flow",
+    "type": "Course"
+  }, {
+    "count": 2,
+    "title": "Swift 2.0 Functions",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Object-Oriented Swift 2.0",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "Build a Simple iPhone App with Swift 2.0",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Swift 2.0 Enumerations and Optionals",
+    "type": "Course"
+  }, {
+    "count": 2,
+    "title": "Swift 2.0 Protocols",
+    "type": "Course"
+  }, {
+    "count": 1,
+    "title": "Error Handling in Swift 2.0",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Build a Vending Machine App in Swift 2.0",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "Intermediate Swift 2",
+    "type": "Course"
+  }, {
+    "count": 2,
+    "title": "Delegates in Swift 2",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "Build an Interactive Story App with Swift 2",
+    "type": "Course"
+  }, {
+    "count": 2,
+    "title": "Generics in Swift 2",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "Closures in Swift 2",
+    "type": "Course"
+  }, {
+    "count": 6,
+    "title": "Introduction to Auto Layout in iOS",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Network Programming with Swift 2",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Debugging for iOS",
+    "type": "Workshop"
+  }, {
+    "count": 6,
+    "title": "Displaying Data with Table Views in Swift 2",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "What's New in Auto Layout in iOS 9",
+    "type": "Workshop"
+  }, {
+    "count": 5,
+    "title": "Objective-C for Swift Developers",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Introduction to Core Data with Swift 2",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Displaying API Data with Collection Views in Objective-C",
+    "type": "Course"
+  }, {
+    "count": 2,
+    "title": "Introduction to Scroll Views with Swift 2",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "Build a Selfie App with Swift 2",
+    "type": "Course"
+  }],
+  "Learn C#": [{
+    "count": 4,
+    "title": "C# Basics",
+    "type": "Course"
+  }, {
+    "count": 6,
+    "title": "C# Objects",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Intermediate C#",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Introduction to Visual Studio",
+    "type": "Workshop"
+  }, {
+    "count": 0,
+    "title": "Using GitHub with Visual Studio",
+    "type": "Workshop"
+  }, {
+    "count": 4,
+    "title": "C# Streams and Data Processing",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "C# Collections",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Querying With LINQ",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Package Management with NuGet",
+    "type": "Workshop"
+  }],
+  "Digital Literacy": [{
+    "count": 1,
+    "title": "Java Web Development",
+    "type": "Track"
+  }, {
+    "count": 1,
+    "title": "Web Design",
+    "type": "Track"
+  }, {
+    "count": 1,
+    "title": "Learn C#",
+    "type": "Track"
+  }, {
+    "count": 1,
+    "title": "Front End Web Development",
+    "type": "Track"
+  }, {
+    "count": 1,
+    "title": "ASP.NET Web Development (Preview)",
+    "type": "Track"
+  }, {
+    "count": 1,
+    "title": "Rails Development",
+    "type": "Track"
+  }, {
+    "count": 1,
+    "title": "iOS Development with Objective-C",
+    "type": "Track"
+  }, {
+    "count": 1,
+    "title": "Beginner Android Development",
+    "type": "Track"
+  }, {
+    "count": 1,
+    "title": "PHP Development",
+    "type": "Track"
+  }, {
+    "count": 1,
+    "title": "WordPress Development",
+    "type": "Track"
+  }, {
+    "count": 1,
+    "title": "Learn WordPress",
+    "type": "Track"
+  }, {
+    "count": 1,
+    "title": "Learn Python",
+    "type": "Track"
+  }, {
+    "count": 1,
+    "title": "Learn Ruby",
+    "type": "Track"
+  }, {
+    "count": 1,
+    "title": "Learn Java",
+    "type": "Track"
+  }, {
+    "count": 1,
+    "title": "Learn Flask",
+    "type": "Track"
+  }, {
+    "count": 1,
+    "title": "Digital Literacy ",
+    "type": "Track"
+  }, {
+    "count": 1,
+    "title": "Full Stack JavaScript",
+    "type": "Track"
+  }, {
+    "count": 1,
+    "title": "iOS Development with Swift 2.0",
+    "type": "Track"
+  }, {
+    "count": 1,
+    "title": "Learn Django",
+    "type": "Track"
+  }, {
+    "count": 1,
+    "title": "Game Development with Unity",
+    "type": "Track"
+  }, {
+    "count": 1,
+    "title": "Intermediate Android Development",
+    "type": "Track"
+  }],
+  "Rails Development": [{
+    "count": 10,
+    "title": "How to Make a Website",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Ruby Basics",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Ruby Operators and Control Structures",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Ruby Collections",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Ruby Loops",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Ruby Objects and Classes",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "Console Foundations",
+    "type": "Course"
+  }, {
+    "count": 6,
+    "title": "Git Basics",
+    "type": "Course"
+  }, {
+    "count": 8,
+    "title": "Database Foundations",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Ruby on Rails 5 Basics",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "HTML Forms",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "Rails Routes and Resources",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "JavaScript Basics",
+    "type": "Course"
+  }, {
+    "count": 2,
+    "title": "Ruby Gems",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Troubleshooting a Rails Application",
+    "type": "Workshop"
+  }],
+  "WordPress Development": [{
+    "count": 6,
+    "title": "How to Make a Website with WordPress",
+    "type": "Course"
+  }, {
+    "count": 1,
+    "title": "Local WordPress Development",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "PHP for WordPress",
+    "type": "Course"
+  }, {
+    "count": 10,
+    "title": "WordPress Theme Development",
+    "type": "Course"
+  }, {
+    "count": 8,
+    "title": "The WordPress Template Hierarchy ",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "From Bootstrap to WordPress",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "WordPress Hooks - Actions and Filters",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "WordPress Customizer API",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Customizing the WordPress Admin Area",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "SEO for WordPress",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "WooCommerce Theme Development",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "How to Build a WordPress Plugin",
+    "type": "Course"
+  }],
+  "Learn Flask": [{
+    "count": 6,
+    "title": "Python Basics",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "Python Collections",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Object-Oriented Python",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Flask Basics",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Using Databases in Python",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "Build a Social Network with Flask",
+    "type": "Course"
+  }, {
+    "count": 2,
+    "title": "HTTP Basics",
+    "type": "Course"
+  }, {
+    "count": 1,
+    "title": "REST API Basics",
+    "type": "Course"
+  }, {
+    "count": 2,
+    "title": "Flask REST API",
+    "type": "Course"
+  }],
+  "PHP Development": [{
+    "count": 4,
+    "title": "Introduction to HTML and CSS",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "PHP Basics",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "PHP Arrays and Control Structures",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "PHP Functions",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Basic Error Handling in PHP",
+    "type": "Workshop"
+  }, {
+    "count": 4,
+    "title": "Build a Basic PHP Website",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "SQL Basics",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "Integrating PHP with Databases",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Object-Oriented PHP Basics",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Introduction to PHP7",
+    "type": "Workshop"
+  }, {
+    "count": 3,
+    "title": "Building Websites with PHP",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Flash Messages Using Slim",
+    "type": "Workshop"
+  }, {
+    "count": 6,
+    "title": "PHP Testing",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "Console Foundations",
+    "type": "Course"
+  }, {
+    "count": 6,
+    "title": "Git Basics",
+    "type": "Course"
+  }],
+  "Learn WordPress": [{
+    "count": 1,
+    "title": "Getting Started with WordPress",
+    "type": "Course"
+  }, {
+    "count": 1,
+    "title": "How to Install WordPress on Your Computer",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "WordPress Basics",
+    "type": "Course"
+  }, {
+    "count": 1,
+    "title": "WordPress User Roles",
+    "type": "Course"
+  }, {
+    "count": 1,
+    "title": "WordPress Admin Settings",
+    "type": "Course"
+  }],
+  "Learn Java": [{
+    "count": 3,
+    "title": "Java Basics",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Java Objects",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "The Thing About Strings",
+    "type": "Workshop"
+  }, {
+    "count": 4,
+    "title": "Java Data Structures",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Regular Expressions in Java",
+    "type": "Workshop"
+  }, {
+    "count": 3,
+    "title": "Local Development Environments",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Java Lambdas",
+    "type": "Workshop"
+  }, {
+    "count": 4,
+    "title": "Build a JavaFX Application",
+    "type": "Course"
+  }],
+  "Full Stack JavaScript": [{
+    "count": 5,
+    "title": "JavaScript Basics",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "JavaScript Loops, Arrays and Objects",
+    "type": "Course"
+  }, {
+    "count": 6,
+    "title": "jQuery Basics",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Using jQuery Plugins",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Interactive Web Pages with JavaScript",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "AJAX Basics",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Understanding \"this\" in JavaScript",
+    "type": "Workshop"
+  }, {
+    "count": 4,
+    "title": "Object-Oriented JavaScript",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "The Module Pattern in JavaScript",
+    "type": "Workshop"
+  }, {
+    "count": 2,
+    "title": "Node.js Basics",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Build a Simple Dynamic Site with Node.js",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "npm Basics",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Using npm as a Task Runner",
+    "type": "Workshop"
+  }, {
+    "count": 6,
+    "title": "Git Basics",
+    "type": "Course"
+  }, {
+    "count": 6,
+    "title": "Express Basics",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Gulp Basics",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "Angular Basics",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Mongo Basics",
+    "type": "Course"
+  }, {
+    "count": 6,
+    "title": "Building a MEAN Application ",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "JavaScript Unit Testing",
+    "type": "Course"
+  }],
+  "Intermediate Android Development": [{
+    "count": 4,
+    "title": "Animations and Transitions ",
+    "type": "Course"
+  }, {
+    "count": 6,
+    "title": "Android Data Persistence",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Google Play Services",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Threads and Services",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Intents and Broadcast Receivers",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Kotlin for Java Developers",
+    "type": "Course"
+  }, {
+    "count": 2,
+    "title": "Kotlin and Anko",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Unit Testing in Java",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Testing in Android",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Using the Camera in Android",
+    "type": "Workshop"
+  }],
+  "Front End Web Development": [{
+    "count": 10,
+    "title": "How to Make a Website",
+    "type": "Course"
+  }, {
+    "count": 7,
+    "title": "CSS Basics",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "JavaScript Basics",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "CSS Layout Basics",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Responsive Layouts",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "CSS Flexbox Layout",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "HTML Forms",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "JavaScript Loops, Arrays and Objects",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "CSS Selectors",
+    "type": "Course"
+  }, {
+    "count": 6,
+    "title": "jQuery Basics",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Bootstrap 4 Basics",
+    "type": "Course"
+  }, {
+    "count": 2,
+    "title": "HTML Tables",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Interactive Web Pages with JavaScript",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "HTML Video and Audio",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "AJAX Basics",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Object-Oriented JavaScript",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Accessibility",
+    "type": "Course"
+  }, {
+    "count": 1,
+    "title": "Website Optimization",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "Console Foundations",
+    "type": "Course"
+  }, {
+    "count": 6,
+    "title": "Git Basics",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Front End Performance Optimization",
+    "type": "Course"
+  }],
+  "iOS Development with Objective-C": [{
+    "count": 6,
+    "title": "Objective-C Basics",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Object-Oriented Objective-C",
+    "type": "Course"
+  }, {
+    "count": 6,
+    "title": "Build a Simple iPhone App with Objective-C",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Git for iOS",
+    "type": "Workshop"
+  }, {
+    "count": 5,
+    "title": "Build a Playlist Browser with Objective-C",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Debugging for iOS",
+    "type": "Workshop"
+  }, {
+    "count": 0,
+    "title": "iOS Improving Interaction with Animation",
+    "type": "Workshop"
+  }, {
+    "count": 0,
+    "title": "Dependency Management with CocoaPods for iOS",
+    "type": "Workshop"
+  }, {
+    "count": 3,
+    "title": "Displaying API Data with Collection Views in Objective-C",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "iOS Memory Management",
+    "type": "Workshop"
+  }, {
+    "count": 0,
+    "title": "iOS Submitting to the App Store",
+    "type": "Workshop"
+  }, {
+    "count": 0,
+    "title": "Comparing Code: Swift and Objective-C",
+    "type": "Workshop"
+  }],
+  "ASP.NET Web Development (Preview)": [{
+    "count": 4,
+    "title": "C# Basics",
+    "type": "Course"
+  }, {
+    "count": 6,
+    "title": "C# Objects",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Introduction to Visual Studio",
+    "type": "Workshop"
+  }, {
+    "count": 0,
+    "title": "Using GitHub with Visual Studio",
+    "type": "Workshop"
+  }, {
+    "count": 4,
+    "title": "Introduction to HTML and CSS",
+    "type": "Course"
+  }, {
+    "count": 2,
+    "title": "HTTP Basics",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "ASP.NET MVC Basics",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "C# Collections",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Querying With LINQ",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Debugging in Visual Studio",
+    "type": "Workshop"
+  }, {
+    "count": 5,
+    "title": "ASP.NET MVC Forms",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Package Management with NuGet",
+    "type": "Workshop"
+  }],
+  "Web Design": [{
+    "count": 10,
+    "title": "How to Make a Website",
+    "type": "Course"
+  }, {
+    "count": 7,
+    "title": "CSS Basics",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "CSS Selectors",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "HTML Forms",
+    "type": "Course"
+  }, {
+    "count": 2,
+    "title": "HTML Tables",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "CSS Layout Basics",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Responsive Layouts",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "CSS Flexbox Layout",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Design Foundations",
+    "type": "Course"
+  }, {
+    "count": 7,
+    "title": "Photoshop Foundations",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "Adobe Illustrator for Web Design",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "CSS Transitions and Transforms",
+    "type": "Course"
+  }, {
+    "count": 2,
+    "title": "SVG Basics",
+    "type": "Course"
+  }, {
+    "count": 2,
+    "title": "Animating SVG with CSS",
+    "type": "Course"
+  }, {
+    "count": 2,
+    "title": "Logo Design Basics",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Brand Identity Basics",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "CSS to Sass",
+    "type": "Course"
+  }],
+  "Learn Ruby": [{
+    "count": 4,
+    "title": "Ruby Basics",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Ruby Operators and Control Structures",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Ruby Collections",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Ruby Loops",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Ruby Objects and Classes",
+    "type": "Course"
+  }, {
+    "count": 2,
+    "title": "Ruby Booleans",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Ruby Blocks",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Build an Address Book in Ruby",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Ruby Modules",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Ruby Enumerable",
+    "type": "Workshop"
+  }, {
+    "count": 3,
+    "title": "Ruby Core and Standard Library",
+    "type": "Course"
+  }, {
+    "count": 2,
+    "title": "Ruby Gems",
+    "type": "Course"
+  }],
+  "Java Web Development": [{
+    "count": 3,
+    "title": "Unit Testing in Java",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Dependency Management with Gradle",
+    "type": "Workshop"
+  }, {
+    "count": 4,
+    "title": "Introduction to HTML and CSS",
+    "type": "Course"
+  }, {
+    "count": 2,
+    "title": "HTTP Basics",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Java Lambdas",
+    "type": "Workshop"
+  }, {
+    "count": 2,
+    "title": "Intro to Java Web Development with Spark",
+    "type": "Course"
+  }, {
+    "count": 2,
+    "title": "Java Annotations",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "Spring Basics",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "SQL Basics",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Modifying Data with SQL",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Hibernate Basics",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "Spring with Hibernate",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Debugging an Existing Java Application",
+    "type": "Workshop"
+  }, {
+    "count": 0,
+    "title": "User Authentication in Spring",
+    "type": "Workshop"
+  }, {
+    "count": 0,
+    "title": "Unit Testing a Spring Application",
+    "type": "Workshop"
+  }, {
+    "count": 1,
+    "title": "REST API Basics",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Build a REST API in Spark",
+    "type": "Workshop"
+  }, {
+    "count": 0,
+    "title": "Build a REST API in Spring",
+    "type": "Workshop"
+  }],
+  "Learn Python": [{
+    "count": 6,
+    "title": "Python Basics",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "Python Collections",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Object-Oriented Python",
+    "type": "Course"
+  }, {
+    "count": 2,
+    "title": "Write Better Python",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Dates and Times in Python",
+    "type": "Course"
+  }, {
+    "count": 1,
+    "title": "Regular Expressions in Python",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Using Databases in Python",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Python Testing",
+    "type": "Course"
+  }],
+  "Game Development with Unity": [{
+    "count": 7,
+    "title": "How to Make a Video Game",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "Unity Basics",
+    "type": "Course"
+  }, {
+    "count": 7,
+    "title": "3D Art with Maya LT ",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Materials in Unity",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Cameras in Unity",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Lighting in Unity",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "C# Basics",
+    "type": "Course"
+  }, {
+    "count": 6,
+    "title": "C# Objects",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Components in Unity",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Object-Oriented Programming in Unity",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "VR in Unity",
+    "type": "Course"
+  }],
+  "Learn Django": [{
+    "count": 6,
+    "title": "Python Basics",
+    "type": "Course"
+  }, {
+    "count": 5,
+    "title": "Python Collections",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Object-Oriented Python",
+    "type": "Course"
+  }, {
+    "count": 1,
+    "title": "Regular Expressions in Python",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Using Databases in Python",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Python Testing",
+    "type": "Course"
+  }, {
+    "count": 6,
+    "title": "Django Basics",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Customizing Django Templates",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Django Forms",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Django ORM",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Customizing the Django Admin",
+    "type": "Course"
+  }, {
+    "count": 2,
+    "title": "Django Class-based Views",
+    "type": "Course"
+  }, {
+    "count": 1,
+    "title": "REST API Basics",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Django REST Framework",
+    "type": "Course"
+  }, {
+    "count": 2,
+    "title": "Django Authentication",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Django Social Authentication",
+    "type": "Workshop"
+  }],
+  "Beginner Android Development": [{
+    "count": 5,
+    "title": "Build a Simple Android App",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Getting Started with the Android Emulator",
+    "type": "Workshop"
+  }, {
+    "count": 4,
+    "title": "Build an Interactive Story App",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "GitHub and Android Studio",
+    "type": "Workshop"
+  }, {
+    "count": 6,
+    "title": "Build a Weather App",
+    "type": "Course"
+  }, {
+    "count": 0,
+    "title": "Dependency Management with Gradle",
+    "type": "Workshop"
+  }, {
+    "count": 6,
+    "title": "Android Lists and Adapters",
+    "type": "Course"
+  }, {
+    "count": 3,
+    "title": "Android Activity Lifecycle",
+    "type": "Course"
+  }, {
+    "count": 4,
+    "title": "Android Fragments",
+    "type": "Course"
+  }]
+}
