@@ -1,0 +1,9 @@
+body {
+    background-color: #222;
+    color: #ddd;
+}
+
+main {
+    width: 80%;
+    margin: 40px auto;
+}
