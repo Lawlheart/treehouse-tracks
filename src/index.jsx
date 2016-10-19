@@ -7,6 +7,9 @@ import Main from './components/Main';
 // require('./style.css');
 
 const routes = <Route component={App}>
+  <Route path="/:username" component={Main} />
+  <Route path="/:username/tracks/:track" component={Main} />
+  <Route path="/tracks/:track" component={Main} />
   <Route path="/" component={Main} />
 </Route>;
 
